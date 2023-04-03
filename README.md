@@ -21,5 +21,5 @@ The basic outline of the method is as follows.We use yolov5 to detect rice panic
 ## Models
 Our panicle detection model is in our releases 'Pdata' named Pdetect.pt.
 
-Our panicle classification model is in our releases 'Pdata' named resnet50vf.pth.
+Our panicle classification model is in our releases 'Pdata' named resNet50vf.pth.
 
