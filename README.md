@@ -14,5 +14,5 @@ The basic outline of the method is as follows.We use yolov5 to detect rice panic
  ## Results
  The panicle detection result is in the floder of yolov5/images.
  The panicle tracking result is in our releases named  track.zip, in the floder of inference.
- The panicle classification result is in the floder of resnet50/test.
+ The panicle classification result is in the floder of ResNet/test.
  
