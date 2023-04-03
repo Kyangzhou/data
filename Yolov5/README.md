@@ -1,2 +1,2 @@
 followe the project: https://github.com/ultralytics/yolov5
-the trained model is in Pdata release
+the trained model is in Pdata releases named "Pdetect.pt"
